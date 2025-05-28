@@ -3,7 +3,7 @@ package pro.sky;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Напишите пример обработки нескольких исключений в одном блоке catch.");
 
         try {
 //            String s = null;
